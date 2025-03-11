@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Starter",
+    "price": 150
+  },
+  {
+    "name": "Assistant",
+    "price": 250
+  },
+  {
+    "name": "Smart Bot",
+    "price": 500
+  },
+  {
+    "name": "Vision",
+    "price": 1000
+  },
+  {
+    "name": "Tools IA",
+    "price": 2000
+  },
+  {
+    "name": "Automation",
+    "price": 5000
+  },
+  {
+    "name": "Cloud",
+    "price": 10000
+  },
+  {
+    "name": "Generador IA",
+    "price": 20000
+  },
+  {
+    "name": "DeepLearn",
+    "price": 50000
+  },
+  {
+    "name": "Quantum",
+    "price": 100000
+  }
+]

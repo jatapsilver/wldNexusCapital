@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Javier Plata",
+    "email": "jatapsilver92@hotmail.com",
+    "sponsor": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "jatapsilver",
+    "password": "Japon1**",
+    "profile": "superadmin",
+    "walletPrivada": "wallet-example-javier",
+    "privateKey": "private-key-example-javier"
+  },
+  {
+    "name": "Andres Quintero",
+    "email": "andresqj@hotmail.com",
+    "sponsor": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "andresqj",
+    "password": "Alemania1*",
+    "profile": "admin",
+    "walletPrivada": "wallet-example-andres",
+    "privateKey": "private-key-example-andres"
+  },
+  {
+    "name": "Eduardo Castilla",
+    "email": "e.castilla@example.com",
+    "sponsor": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "ecastilla",
+    "password": "España1*",
+    "profile": "admin",
+    "walletPrivada": "wallet-example-eduardo",
+    "privateKey": "private-key-example-eduardo"
+  },
+  {
+    "name": "Soporte NeuroBotIa",
+    "email": "soporte@neurobotia.com",
+    "sponsor": "550e8400-e29b-41d4-a716-446655440000",
+    "username": "soporteNeuroBotIa1",
+    "password": "Soporte1*",
+    "profile": "admin",
+    "walletPrivada": "wallet-example-soporte",
+    "privateKey": "private-key-example-soporte"
+  }
+]
